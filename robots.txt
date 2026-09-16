@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap will be added as soon as the final domain is confirmed.
+Sitemap: https://nexora-marketing-hk.com/sitemap.xml
