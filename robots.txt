@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Sitemap will be added as soon as the final domain is confirmed.
